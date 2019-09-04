@@ -1,8 +1,8 @@
 # learnyounode
 ## I Am refreshing my nodejs
-##First  
+## First  
 ok 
-##Async/Await parts 
+## Async/Await parts 
 not that great --> learn promises/...
 
 ## HTTP/Json Server 

@@ -1,15 +1,15 @@
-## learnyounode
-# I Am refreshing my nodejs
-#First  
+# learnyounode
+## I Am refreshing my nodejs
+##First  
 ok 
-#Async/Await parts 
+##Async/Await parts 
 not that great --> learn promises/...
 
-# HTTP/Json Server 
+## HTTP/Json Server 
 went ok --> pareto
 
 
-#Coud do
+###Coud do
 npm install -g promise-it-wont-hurt 
 npm install -g planetproto
 npm install -g esnext-generation

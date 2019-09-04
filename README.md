@@ -10,7 +10,7 @@ went ok --> pareto
 
 
 ### Coud do
-`npm install -g promise-it-wont-hurt </br>
+`npm install -g promise-it-wont-hurt <br/>
 npm install -g planetproto </br>
 npm install -g esnext-generation </br>
 npm install -g learnyoureact </br>

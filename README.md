@@ -9,13 +9,12 @@ not that great --> learn promises/...
 went ok --> pareto
 
 
-###Coud do
-npm install -g promise-it-wont-hurt 
-npm install -g planetproto
-npm install -g esnext-generation
-npm install -g learnyoureact
-npm install -g learnyoumongo
-npm i @workshoppers/scope-chains-closures -g
-scope-chains-closures
-npm install -g count-to-6
+### Coud do
+`npm install -g promise-it-wont-hurt <br>
+npm install -g planetproto <br>
+npm install -g esnext-generation <br>
+npm install -g learnyoureact <br>
+npm install -g learnyoumongo <br>
+npm i @workshoppers/scope-chains-closures -g scope-chains-closures <br>
+npm install -g count-to-6`
 
